@@ -13,13 +13,13 @@ export default function AboutMe() {
                 <p className="columns is-multiline subtitle has-text-white is-centered">
                     <div className="column has-text-centered">
                         <p className="has-text-centered">
-                            Hello! I am a software engineer currently working at Redfin in San Francisco. 
+                            Hello! I am a software engineer currently working at ____ in ____. 
                         </p>
                         <p className="has-text-centered">
                             I graduated from the University of Michigan in 2021 with a B.S.E. in Computer Science.
                         </p>
                         <p className="has-text-centered">
-                            I am interested in building products and experiences loved by Users
+                            I am interested in etc
                         </p>
                     </div>
                 </p>
