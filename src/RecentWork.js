@@ -11,9 +11,9 @@ export default function RecentWork() {
                     </div>
                 </p>
                 <p className="subtitle has-text-white">
-                    {/* <div className="container has-text-centered">
+                    <div className="container has-text-centered">
                         Software Engineer @ <a href='https://redfin.com' rel='noreferrer' target='_blank'> Redfin </a>
-                    </div> */}
+                    </div>
                     <div className="container has-text-centered">
                         Founding Team Member @ <a href='https://pursu.dev' rel='noreferrer' target='_blank'> Pursu </a>
                     </div>

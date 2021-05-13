@@ -1,7 +1,8 @@
 import './App.sass';
 import Header from './Header.js';
-import RecentWork from './RecentWork';
 import AboutMe from './AboutMe';
+import RecentWork from './RecentWork';
+import OtherProjects from './OtherProjects';
 import Links from './Links';
 
 function App() {
@@ -10,6 +11,7 @@ function App() {
       <Header />
       <AboutMe />
       <RecentWork />
+      <OtherProjects />
       <Links />
     </div>
   );
