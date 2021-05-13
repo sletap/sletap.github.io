@@ -18,7 +18,7 @@ export default function AboutMe() {
                             I graduated from the University of Michigan in 2021 with a B.S.E. in Computer Science
                         </p>
                         <p className="has-text-centered">
-                            I'm interested in building user friendly products, whether that be doing work in the frontend, backend, or anywhere else!
+                            I'm interested in building user friendly products, whether that means doing work in the frontend, backend, or anywhere else :)
                         </p>
                     </div>
                 </p>
