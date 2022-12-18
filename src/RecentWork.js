@@ -12,6 +12,9 @@ export default function RecentWork() {
                 </p>
                 <p className="subtitle has-text-white">
                     <div className="container has-text-centered">
+                        Software Engineer @ <a href='https://patreon.com' rel='noreferrer' target='_blank'> Patreon </a>
+                    </div>
+                    <div className="container has-text-centered">
                         Software Engineer @ <a href='https://redfin.com' rel='noreferrer' target='_blank'> Redfin </a>
                     </div>
                     <div className="container has-text-centered">
